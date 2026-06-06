@@ -1,6 +1,6 @@
-# Mumbai Cafe Business Intelligence Dashboard
+# Mumbai Cafe Business Dashboard
 
-This project presents an Excel-based Business Intelligence Dashboard built using a dataset of cafes across Mumbai. The dashboard explores customer ratings, review activity, cafe categories, and estimated business performance through interactive visualizations and KPI tracking.
+This project presents an Excel-based Business Dashboard built using a dataset of cafes across Mumbai. The dashboard explores customer ratings, review activity, cafe categories, and estimated business performance through interactive visualizations and KPI tracking.
 
 The original dataset contains cafe information such as location, ratings, addresses, latitude, and longitude. To extend the analytical scope of the project, additional business-oriented metrics were engineered, allowing the dataset to be explored from a revenue and popularity perspective.
 
@@ -31,28 +31,27 @@ The dashboard includes KPI cards, Pivot Tables, Pivot Charts, Slicers, Scatter P
 
 ### Working Dataset
 
-![Dataset](images/working-dataset.png)## Engineered Metrics & Formulas
+![Dataset](images/working-dataset.png)
+
+## Engineered Metrics & Formulas
 
 ### Popularity Score
 
 Measures overall cafe popularity by combining customer rating and review volume.
 
-Formula:
-Popularity Score = Rating × Total Ratings
+**Formula:** Popularity Score = Rating × Total Ratings
 
 ### Estimated Monthly Visitors
 
 Approximates monthly customer footfall using review activity.
 
-Formula:
-Estimated Monthly Visitors = Total Ratings × 25
+**Formula:** Estimated Monthly Visitors = Total Ratings × 25
 
 ### Average Spend
 
 Assigned based on cafe positioning and rating bands.
 
-Formula:
-
+**Formula:**
 * Rating ≥ 4.7 → ₹550
 * Rating ≥ 4.4 → ₹450
 * Rating ≥ 4.0 → ₹350
@@ -68,8 +67,7 @@ Excel Formula:
 
 Calculated using estimated visitors and average spend.
 
-Formula:
-Estimated Revenue = Estimated Monthly Visitors × Average Spend
+**Formula:** Estimated Revenue = Estimated Monthly Visitors × Average Spend
 
 Excel Formula:
 
