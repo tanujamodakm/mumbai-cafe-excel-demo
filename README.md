@@ -4,7 +4,7 @@ This project presents an Excel-based Business Dashboard built using a dataset of
 
 The original dataset contains cafe information such as location, ratings, addresses, latitude, and longitude. To extend the analytical scope of the project, additional business-oriented metrics were engineered, allowing the dataset to be explored from a revenue and popularity perspective.
 
-The dashboard includes KPI cards, Pivot Tables, Pivot Charts, Slicers, Scatter Plot Analysis, and geographic visualization using latitude and longitude data. The objective was to transform raw cafe information into a clean and interactive dashboard that supports quick business insights and exploratory analysis.
+The dashboard includes KPI cards, Pivot Tables, Pivot Charts, Slicers and Scatter Plot Analysis. The objective was to transform raw cafe information into a clean and interactive dashboard that supports quick business insights and exploratory analysis.
 
 ## Dashboard Features
 ![DashboardFeatures](image/Picture2.png)
