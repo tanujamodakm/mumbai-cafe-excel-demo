@@ -23,15 +23,15 @@ The dashboard includes KPI cards, Pivot Tables, Pivot Charts, Slicers, Scatter P
 
 ### Business Intelligence Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Picture1.png)
 
 ### Mumbai Map Visualization
 
-![Mumbai Map](images/mumbai-map.png)
+![Mumbai Map](images/Picture3.png)
 
 ### Working Dataset
 
-![Dataset](images/working-dataset.png)
+![Dataset](images/Picture5.png)
 
 ## Engineered Metrics & Formulas
 
