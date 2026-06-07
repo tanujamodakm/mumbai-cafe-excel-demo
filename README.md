@@ -25,11 +25,11 @@ The dashboard includes KPI cards, Pivot Tables, Pivot Charts, Slicers, Scatter P
 
 ![Dashboard](image/Picture1.png)
 
-### Mumbai Map Visualization
+### KPI Section
 
 ![Mumbai Map](image/Picture3.png)
 
-### Working Dataset
+### Interactive Slicer Demo
 
 ![Dataset](image/Picture5.png)
 
