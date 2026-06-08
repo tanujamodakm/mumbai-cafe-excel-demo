@@ -6,8 +6,9 @@ The original dataset contains cafe information such as location, ratings, addres
 
 The dashboard includes KPI cards, Pivot Tables, Pivot Charts, Slicers and Scatter Plot Analysis. The objective was to transform raw cafe information into a clean and interactive dashboard that supports quick business insights and exploratory analysis.
 
-## Dashboard Features
 ![DashboardFeatures](image/Picture2.png)
+
+## Dashboard Features
 * Total Cafes KPI
 * Average Rating KPI
 * Total Reviews KPI
